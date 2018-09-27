@@ -427,7 +427,7 @@ public class AdminFrame extends JFrame {
 							se.printStackTrace();
 						} // end finally try
 					} // end try
-					System.out.println("good bye");
+				//	System.out.println("good bye");
 				}
 			}
 		});
